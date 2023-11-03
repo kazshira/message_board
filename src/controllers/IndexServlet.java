@@ -45,5 +45,4 @@ public class IndexServlet extends HttpServlet {
         rd.forward(request, response);
     }
 
-
 }
